@@ -112,6 +112,7 @@ Kitti
             velodyne
         train.txt
         val.txt
+        trainval.txt
 ```
 
 ### Mini-batch Generation
